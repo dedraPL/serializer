@@ -1,3 +1,8 @@
+/*!
+ * @file Serializer.h
+ * @author Bartłomiej Drozd
+ *
+ */
 #pragma once
 
 #include "MemberStorage.h"

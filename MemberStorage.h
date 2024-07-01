@@ -1,3 +1,8 @@
+/*!
+ * @file MemberStorage.h
+ * @author Bartłomiej Drozd
+ *
+ */
 #pragma once
 
 #include <unordered_map>
